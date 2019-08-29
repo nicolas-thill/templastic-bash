@@ -4,7 +4,7 @@ services:
     build:
       context: .
       dockerfile: ./Dockerfile
-    image: templastic/base
+    image: templastic/bash
     restart: unless-stopped
     volumes:
       - ./src:/app

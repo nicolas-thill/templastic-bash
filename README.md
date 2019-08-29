@@ -1,6 +1,6 @@
-# templastic-base
+# templastic-bash
 
-A repository template for projects using Docker
+A repository template for Shell projects using Docker & Bash
 
 ## Setup
 
